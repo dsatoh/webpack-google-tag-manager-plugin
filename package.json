@@ -27,8 +27,6 @@
     "common-tags": "1.8.0"
   },
   "peerDependencies": {
-    "html-webpack-plugin": "4.0.0-beta.8",
-    "webpack": "4.41.0",
-    "webpack-cli": "3.3.9"
+    "html-webpack-plugin": "^4.3.0"
   }
 }
